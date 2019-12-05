@@ -1,0 +1,22 @@
+{
+  "clubs": [
+    {
+      "id": 1,
+      "name": "Odonien",
+      "quarter": "nippes",
+      "price": 18
+    },
+    {
+      "id": 2,
+      "name": "Heinz Gaul",
+      "quarter": "Ehrenfeld",
+      "price": 15
+    },
+    {
+      "id": 3,
+      "name": "Reineke Fuchs",
+      "quarter": "beglisches Viertel",
+      "price": 10
+    }
+  ]
+}
